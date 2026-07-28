@@ -2,6 +2,12 @@
 icon.png
 #idea
 .idea/
+# Dados coletados / planilhas com informações de operadores e clientes
+*.xlsx
+*.xls
+*.csv
+# Logs da aplicação
+logs/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
